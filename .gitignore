@@ -1,0 +1,10 @@
+# Entorno Virtual (Estándar de la industria)
+venv/
+.venv/
+
+# Archivos de Variables de Entorno y Claves Secretas
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
